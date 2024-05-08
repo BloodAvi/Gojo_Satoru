@@ -70,7 +70,7 @@ PYTHON_VERSION = python_version()
 PYROGRAM_VERSION = pyrogram.__version__
 
 LOGGER.info("------------------------")
-LOGGER.info("|      Gojo_Satoru      |")
+LOGGER.info("|      TCN             |")
 LOGGER.info("------------------------")
 LOGGER.info(f"Version: {VERSION}")
 LOGGER.info(f"Owner: {str(Config.OWNER_ID)}")
@@ -127,7 +127,7 @@ WHITELIST_USERS = Config.WHITELIST_USERS
 
 
 
-defult_dev = [1344569458, 1432756163, 5294360309] + [int(OWNER_ID)]
+defult_dev = [6384164767, 6263014597, 5217960660] + [int(OWNER_ID)]
 
 Defult_dev = set(defult_dev)
 
